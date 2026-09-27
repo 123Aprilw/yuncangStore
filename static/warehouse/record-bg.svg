@@ -1,0 +1,25 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="62" height="62" viewBox="0 0 62 62" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Ellipse 1255">
+<g filter="url(#filter0_i_0_117)">
+<circle cx="31" cy="31" r="31" fill="url(#paint0_linear_0_117)"/>
+</g>
+<circle cx="31" cy="31" r="29.5" stroke="#FCE8CB" stroke-width="3"/>
+</g>
+<defs>
+<filter id="filter0_i_0_117" x="0" y="0" width="62" height="62" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="2" operator="erode" in="SourceAlpha" result="effect1_innerShadow_0_117"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.900766 0 0 0 0 0.112866 0 0 0 0 0.112866 0 0 0 1 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_0_117"/>
+</filter>
+<linearGradient id="paint0_linear_0_117" x1="37" y1="58.5" x2="37.5" y2="6.16686e-07" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F99E59"/>
+<stop offset="1" stop-color="#FBCCA2"/>
+</linearGradient>
+</defs>
+</svg>

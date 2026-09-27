@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="15" height="24" viewBox="0 0 15 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Margin">
+<path id="Icon" d="M7.5 24C6.95 24 6.47917 23.8042 6.0875 23.4125C5.69583 23.0208 5.5 22.55 5.5 22H9.5C9.5 22.55 9.30417 23.0208 8.9125 23.4125C8.52083 23.8042 8.05 24 7.5 24V24M3.5 21V19H11.5V21H3.5V21M3.75 18C2.6 17.3167 1.6875 16.4 1.0125 15.25C0.3375 14.1 0 12.85 0 11.5C0 9.41667 0.729167 7.64583 2.1875 6.1875C3.64583 4.72917 5.41667 4 7.5 4C9.58333 4 11.3542 4.72917 12.8125 6.1875C14.2708 7.64583 15 9.41667 15 11.5C15 12.85 14.6625 14.1 13.9875 15.25C13.3125 16.4 12.4 17.3167 11.25 18H3.75V18" fill="url(#paint0_linear_0_111)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_111" x1="0" y1="14" x2="15" y2="14" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FB3B19"/>
+<stop offset="1" stop-color="#F97316"/>
+</linearGradient>
+</defs>
+</svg>

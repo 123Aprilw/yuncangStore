@@ -1,0 +1,194 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/product/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "商品",
+				"disableScroll": true
+			}
+		},
+		{
+			"path": "pages/product/detail",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "商品详情"
+			}
+		},
+		{
+			"path": "pages/order/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "订单",
+				"disableScroll": true
+			}
+		},
+		{
+			"path": "pages/order/detail",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/order/pending",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "待处理订单",
+				"disableScroll": true
+			}
+		},
+		{
+			"path": "pages/workbench/no-warehouse",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "工作台"
+			}
+		},
+		{
+			"path": "pages/workbench/warehouse-opened",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "工作台"
+			}
+		},
+		{
+			"path": "pages/workbench/notice-detail",
+			"style": { "navigationStyle": "custom", "navigationBarTitleText": "公告详情" }
+		},
+		{
+			"path": "pages/recipient/add",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "添加收货人",
+				"backgroundColor": "#F7F7F7"
+			}
+		},
+		{
+			"path": "pages/recipient/list",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "收货人地址",
+				"backgroundColor": "#F9F9F9"
+			}
+		},
+		{
+			"path": "pages/delivery/create",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "云仓发货",
+				"backgroundColor": "#F9F9F9"
+			}
+		},
+		{
+			"path": "pages/delivery/products",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "云仓发货",
+				"backgroundColor": "#F9F9F9"
+			}
+		},
+		{
+			"path": "pages/delivery/confirm",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "确认订单",
+				"backgroundColor": "#F9F9F9"
+			}
+		},
+		{
+			"path": "pages/distribution/index",
+			"style": { "navigationStyle": "custom", "navigationBarTitleText": "分销中心", "disableScroll": true }
+		},
+		{
+			"path": "pages/distribution/team",
+			"style": { "navigationStyle": "custom", "navigationBarTitleText": "我的团队", "disableScroll": true }
+		},
+		{
+			"path": "pages/distribution/deposit",
+			"style": { "navigationStyle": "custom", "navigationBarTitleText": "缴纳保证金", "disableScroll": true }
+		},
+		{
+			"path": "pages/distribution/binding",
+			"style": { "navigationStyle": "custom", "navigationBarTitleText": "消费者绑定", "disableScroll": true }
+		},
+		{
+			"path": "pages/distribution/records",
+			"style": { "navigationStyle": "custom", "navigationBarTitleText": "分销明细", "disableScroll": true }
+		},
+		{
+			"path": "pages/profile/index",
+			"style": { "navigationStyle": "custom", "navigationBarTitleText": "我的", "disableScroll": true }
+		},
+		{
+			"path": "pages/profile/agreements",
+			"style": { "navigationStyle": "custom", "navigationBarTitleText": "我的协议", "disableScroll": true }
+		},
+		{
+			"path": "pages/profile/edit",
+			"style": { "navigationStyle": "custom", "navigationBarTitleText": "编辑", "disableScroll": true }
+		},
+		{
+			"path": "pages/profile/phone",
+			"style": { "navigationStyle": "custom", "navigationBarTitleText": "修改手机号", "disableScroll": true }
+		},
+		{
+			"path": "pages/profile/messages",
+			"style": { "navigationStyle": "custom", "navigationBarTitleText": "消息中心", "disableScroll": true }
+		},
+		{
+			"path": "pages/profile/message-detail",
+			"style": { "navigationStyle": "custom", "navigationBarTitleText": "消息详情", "disableScroll": true }
+		},
+		{
+			"path": "pages/profile/help",
+			"style": { "navigationStyle": "custom", "navigationBarTitleText": "Help Center" }
+		},
+		{
+			"path": "pages/profile/agreement-detail",
+			"style": { "navigationStyle": "custom", "navigationBarTitleText": "我的协议", "disableScroll": true }
+		},
+		{
+			"path": "pages/profile/signature",
+			"style": { "navigationStyle": "custom", "navigationBarTitleText": "我的协议", "disableScroll": true, "pageOrientation": "auto" }
+		},
+		{
+			"path": "pages/warehouse/manage",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "仓库管理",
+				"backgroundColor": "#F9F9F9"
+			}
+		},
+		{
+			"path": "pages/warehouse/records",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "仓库管理",
+				"backgroundColor": "#F9F9F9"
+			}
+		},
+		{
+			"path": "pages/warehouse/unopened",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "仓库管理",
+				"backgroundColor": "#F9F9F9"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#FFEED2",
+		"backgroundColor": "#FFFFFF"
+	},
+	"uniIdRouter": {}
+}
